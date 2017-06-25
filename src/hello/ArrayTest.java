@@ -6,6 +6,7 @@ public class ArrayTest {
 		toHex(60);
 		toBinary(60);
 		toOctal(60);
+		System.out.println("hello world!");
 	}
 	//°Ë½øÖÆ
 	public static void toOctal(int num){
